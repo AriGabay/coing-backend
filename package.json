@@ -4,7 +4,8 @@
   "description": "interview-backend",
   "main": "src/server.js",
   "scripts": {
-    "dev": "nodemon src/server"
+    "dev": "nodemon src/server",
+    "start": "nodemon src/server"
   },
   "repository": {
     "type": "git",
