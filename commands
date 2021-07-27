@@ -1,0 +1,2 @@
+docker build -t coing-project-backend .
+docker run -it -p 9090:9090 coing-project-backend
